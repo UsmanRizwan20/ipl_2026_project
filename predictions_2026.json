@@ -1,0 +1,585 @@
+{
+  "model_cv_auc": 0.8727564102564103,
+  "win_probabilities": [
+    {
+      "team": "Mumbai Indians",
+      "win_probability": 14.152746107178494
+    },
+    {
+      "team": "Chennai Super Kings",
+      "win_probability": 12.567353253305825
+    },
+    {
+      "team": "Gujarat Titans",
+      "win_probability": 12.501697612147321
+    },
+    {
+      "team": "Kolkata Knight Riders",
+      "win_probability": 10.920765099638295
+    },
+    {
+      "team": "Sunrisers Hyderabad",
+      "win_probability": 10.361591118965087
+    },
+    {
+      "team": "Rajasthan Royals",
+      "win_probability": 8.572932654831481
+    },
+    {
+      "team": "Royal Challengers Bengaluru",
+      "win_probability": 8.395347726416796
+    },
+    {
+      "team": "Punjab Kings",
+      "win_probability": 7.835020924462839
+    },
+    {
+      "team": "Delhi Capitals",
+      "win_probability": 7.70777225661646
+    },
+    {
+      "team": "Lucknow Super Giants",
+      "win_probability": 6.9847732464374115
+    }
+  ],
+  "top_run_scorers": [
+    {
+      "player": "Virat Kohli",
+      "team": "Royal Challengers Bengaluru",
+      "career_runs": 8661.0,
+      "projected_runs_2026": 565
+    },
+    {
+      "player": "Shubman Gill",
+      "team": "Gujarat Titans",
+      "career_runs": 3866.0,
+      "projected_runs_2026": 547
+    },
+    {
+      "player": "KL Rahul",
+      "team": "Delhi Capitals",
+      "career_runs": 5222.0,
+      "projected_runs_2026": 505
+    },
+    {
+      "player": "Sai Sudharsan",
+      "team": "Gujarat Titans",
+      "career_runs": 1793.0,
+      "projected_runs_2026": 505
+    },
+    {
+      "player": "Priyansh Arya",
+      "team": "Punjab Kings",
+      "career_runs": 475.0,
+      "projected_runs_2026": 475
+    },
+    {
+      "player": "Suryakumar Yadav",
+      "team": "Mumbai Indians",
+      "career_runs": 4311.0,
+      "projected_runs_2026": 452
+    },
+    {
+      "player": "Yashasvi Jaiswal",
+      "team": "Rajasthan Royals",
+      "career_runs": 2166.0,
+      "projected_runs_2026": 423
+    },
+    {
+      "player": "Ruturaj Gaikwad",
+      "team": "Chennai Super Kings",
+      "career_runs": 2502.0,
+      "projected_runs_2026": 401
+    },
+    {
+      "player": "Sanju Samson",
+      "team": "Chennai Super Kings",
+      "career_runs": 4704.0,
+      "projected_runs_2026": 392
+    },
+    {
+      "player": "Rohit Sharma",
+      "team": "Mumbai Indians",
+      "career_runs": 7046.0,
+      "projected_runs_2026": 377
+    }
+  ],
+  "top_wicket_takers": [
+    {
+      "player": "Yuzvendra Chahal",
+      "team": "Punjab Kings",
+      "career_wickets": 221.0,
+      "projected_wickets_2026": 19
+    },
+    {
+      "player": "Jasprit Bumrah",
+      "team": "Mumbai Indians",
+      "career_wickets": 183.0,
+      "projected_wickets_2026": 18
+    },
+    {
+      "player": "Rashid Khan",
+      "team": "Gujarat Titans",
+      "career_wickets": 158.0,
+      "projected_wickets_2026": 16
+    },
+    {
+      "player": "Trent Boult",
+      "team": "Mumbai Indians",
+      "career_wickets": 143.0,
+      "projected_wickets_2026": 16
+    },
+    {
+      "player": "Noor Ahmad",
+      "team": "Chennai Super Kings",
+      "career_wickets": 48.0,
+      "projected_wickets_2026": 17
+    },
+    {
+      "player": "Harshal Patel",
+      "team": "Sunrisers Hyderabad",
+      "career_wickets": 151.0,
+      "projected_wickets_2026": 16
+    },
+    {
+      "player": "Arshdeep Singh",
+      "team": "Punjab Kings",
+      "career_wickets": 97.0,
+      "projected_wickets_2026": 16
+    },
+    {
+      "player": "Bhuvneshwar Kumar",
+      "team": "Royal Challengers Bengaluru",
+      "career_wickets": 198.0,
+      "projected_wickets_2026": 13
+    },
+    {
+      "player": "Sunil Narine",
+      "team": "Kolkata Knight Riders",
+      "career_wickets": 192.0,
+      "projected_wickets_2026": 13
+    },
+    {
+      "player": "Mohammed Siraj",
+      "team": "Gujarat Titans",
+      "career_wickets": 109.0,
+      "projected_wickets_2026": 14
+    }
+  ],
+  "squad_strengths": [
+    {
+      "team": "Mumbai Indians",
+      "bat": 2283.7154882076666,
+      "bowl": 548.0424435556461,
+      "combined": 1415.8789658816563
+    },
+    {
+      "team": "Gujarat Titans",
+      "bat": 1771.8624212815816,
+      "bowl": 318.14193047467734,
+      "combined": 1045.0021758781295
+    },
+    {
+      "team": "Punjab Kings",
+      "bat": 1535.3724750867548,
+      "bowl": 384.3079261527872,
+      "combined": 959.8402006197709
+    },
+    {
+      "team": "Delhi Capitals",
+      "bat": 1634.7348179443284,
+      "bowl": 280.60310824476454,
+      "combined": 957.6689630945465
+    },
+    {
+      "team": "Sunrisers Hyderabad",
+      "bat": 1579.1133340739298,
+      "bowl": 334.59168727869695,
+      "combined": 956.8525106763134
+    },
+    {
+      "team": "Rajasthan Royals",
+      "bat": 1496.8148294818545,
+      "bowl": 404.394394882743,
+      "combined": 950.6046121822988
+    },
+    {
+      "team": "Kolkata Knight Riders",
+      "bat": 1272.6124930864285,
+      "bowl": 423.2163445529373,
+      "combined": 847.9144188196829
+    },
+    {
+      "team": "Lucknow Super Giants",
+      "bat": 1242.882749696687,
+      "bowl": 342.0614490141055,
+      "combined": 792.4720993553963
+    },
+    {
+      "team": "Chennai Super Kings",
+      "bat": 1429.0376740382162,
+      "bowl": 122.16251077122593,
+      "combined": 775.6000924047211
+    },
+    {
+      "team": "Royal Challengers Bengaluru",
+      "bat": 985.4974632107524,
+      "bowl": 375.62317890579675,
+      "combined": 680.5603210582746
+    }
+  ],
+  "player_batting": [
+    {
+      "player": "Virat Kohli",
+      "team": "Royal Challengers Bengaluru",
+      "career_runs": 8661.0,
+      "w_runs": 564.5730244307044,
+      "projected_runs_2026": 565
+    },
+    {
+      "player": "Shubman Gill",
+      "team": "Gujarat Titans",
+      "career_runs": 3866.0,
+      "w_runs": 546.7416438364578,
+      "projected_runs_2026": 547
+    },
+    {
+      "player": "KL Rahul",
+      "team": "Delhi Capitals",
+      "career_runs": 5222.0,
+      "w_runs": 505.429607232516,
+      "projected_runs_2026": 505
+    },
+    {
+      "player": "Sai Sudharsan",
+      "team": "Gujarat Titans",
+      "career_runs": 1793.0,
+      "w_runs": 505.4710041554673,
+      "projected_runs_2026": 505
+    },
+    {
+      "player": "Priyansh Arya",
+      "team": "Punjab Kings",
+      "career_runs": 475.0,
+      "w_runs": 475.0,
+      "projected_runs_2026": 475
+    },
+    {
+      "player": "Suryakumar Yadav",
+      "team": "Mumbai Indians",
+      "career_runs": 4311.0,
+      "w_runs": 451.85650160707473,
+      "projected_runs_2026": 452
+    },
+    {
+      "player": "Yashasvi Jaiswal",
+      "team": "Rajasthan Royals",
+      "career_runs": 2166.0,
+      "w_runs": 423.16147639206537,
+      "projected_runs_2026": 423
+    },
+    {
+      "player": "Ruturaj Gaikwad",
+      "team": "Chennai Super Kings",
+      "career_runs": 2502.0,
+      "w_runs": 400.67759099467565,
+      "projected_runs_2026": 401
+    },
+    {
+      "player": "Sanju Samson",
+      "team": "Chennai Super Kings",
+      "career_runs": 4704.0,
+      "w_runs": 391.5188825067176,
+      "projected_runs_2026": 392
+    },
+    {
+      "player": "Rohit Sharma",
+      "team": "Mumbai Indians",
+      "career_runs": 7046.0,
+      "w_runs": 376.6677539340736,
+      "projected_runs_2026": 377
+    },
+    {
+      "player": "Tilak Varma",
+      "team": "Mumbai Indians",
+      "career_runs": 1499.0,
+      "w_runs": 372.0526627119706,
+      "projected_runs_2026": 372
+    },
+    {
+      "player": "Ishan Kishan",
+      "team": "Sunrisers Hyderabad",
+      "career_runs": 2998.0,
+      "w_runs": 341.2070170880764,
+      "projected_runs_2026": 341
+    },
+    {
+      "player": "Cameron Green",
+      "team": "Kolkata Knight Riders",
+      "career_runs": 707.0,
+      "w_runs": 342.1711868028151,
+      "projected_runs_2026": 342
+    },
+    {
+      "player": "Abhishek Sharma",
+      "team": "Sunrisers Hyderabad",
+      "career_runs": 1816.0,
+      "w_runs": 307.1874209586101,
+      "projected_runs_2026": 307
+    },
+    {
+      "player": "Aiden Markram",
+      "team": "Lucknow Super Giants",
+      "career_runs": 1440.0,
+      "w_runs": 308.4719091319672,
+      "projected_runs_2026": 308
+    },
+    {
+      "player": "Shashank Singh",
+      "team": "Punjab Kings",
+      "career_runs": 773.0,
+      "w_runs": 290.12941256263395,
+      "projected_runs_2026": 290
+    },
+    {
+      "player": "Hardik Pandya",
+      "team": "Mumbai Indians",
+      "career_runs": 2749.0,
+      "w_runs": 269.59081319073545,
+      "projected_runs_2026": 270
+    },
+    {
+      "player": "Mitchell Marsh",
+      "team": "Lucknow Super Giants",
+      "career_runs": 1292.0,
+      "w_runs": 255.67048426407493,
+      "projected_runs_2026": 256
+    },
+    {
+      "player": "Marcus Stoinis",
+      "team": "Punjab Kings",
+      "career_runs": 2026.0,
+      "w_runs": 238.75325472745678,
+      "projected_runs_2026": 239
+    },
+    {
+      "player": "Dhruv Jurel",
+      "team": "Rajasthan Royals",
+      "career_runs": 680.0,
+      "w_runs": 240.7620496829089,
+      "projected_runs_2026": 241
+    },
+    {
+      "player": "Aniket Verma",
+      "team": "Sunrisers Hyderabad",
+      "career_runs": 236.0,
+      "w_runs": 236.0,
+      "projected_runs_2026": 236
+    },
+    {
+      "player": "MS Dhoni",
+      "team": "Chennai Super Kings",
+      "career_runs": 5439.0,
+      "w_runs": 218.475689236352,
+      "projected_runs_2026": 218
+    },
+    {
+      "player": "David Miller",
+      "team": "Delhi Capitals",
+      "career_runs": 3077.0,
+      "w_runs": 224.62379283260157,
+      "projected_runs_2026": 225
+    },
+    {
+      "player": "Ravindra Jadeja",
+      "team": "Rajasthan Royals",
+      "career_runs": 3260.0,
+      "w_runs": 214.00109474391076,
+      "projected_runs_2026": 214
+    },
+    {
+      "player": "Naman Dhir",
+      "team": "Mumbai Indians",
+      "career_runs": 392.0,
+      "w_runs": 202.44074658926252,
+      "projected_runs_2026": 202
+    }
+  ],
+  "player_bowling": [
+    {
+      "player": "Yuzvendra Chahal",
+      "team": "Punjab Kings",
+      "career_wickets": 221.0,
+      "w_wickets": 18.605162904449156,
+      "projected_wickets_2026": 19
+    },
+    {
+      "player": "Jasprit Bumrah",
+      "team": "Mumbai Indians",
+      "career_wickets": 183.0,
+      "w_wickets": 18.164689669122822,
+      "projected_wickets_2026": 18
+    },
+    {
+      "player": "Rashid Khan",
+      "team": "Gujarat Titans",
+      "career_wickets": 158.0,
+      "w_wickets": 16.02843395780865,
+      "projected_wickets_2026": 16
+    },
+    {
+      "player": "Trent Boult",
+      "team": "Mumbai Indians",
+      "career_wickets": 143.0,
+      "w_wickets": 15.798317084205463,
+      "projected_wickets_2026": 16
+    },
+    {
+      "player": "Noor Ahmad",
+      "team": "Chennai Super Kings",
+      "career_wickets": 48.0,
+      "w_wickets": 16.680951567667794,
+      "projected_wickets_2026": 17
+    },
+    {
+      "player": "Harshal Patel",
+      "team": "Sunrisers Hyderabad",
+      "career_wickets": 151.0,
+      "w_wickets": 15.661158892554967,
+      "projected_wickets_2026": 16
+    },
+    {
+      "player": "Arshdeep Singh",
+      "team": "Punjab Kings",
+      "career_wickets": 97.0,
+      "w_wickets": 16.090053159217565,
+      "projected_wickets_2026": 16
+    },
+    {
+      "player": "Bhuvneshwar Kumar",
+      "team": "Royal Challengers Bengaluru",
+      "career_wickets": 198.0,
+      "w_wickets": 13.16693887234305,
+      "projected_wickets_2026": 13
+    },
+    {
+      "player": "Sunil Narine",
+      "team": "Kolkata Knight Riders",
+      "career_wickets": 192.0,
+      "w_wickets": 12.581157922872517,
+      "projected_wickets_2026": 13
+    },
+    {
+      "player": "Mohammed Siraj",
+      "team": "Gujarat Titans",
+      "career_wickets": 109.0,
+      "w_wickets": 13.6069171366137,
+      "projected_wickets_2026": 14
+    },
+    {
+      "player": "Kuldeep Yadav",
+      "team": "Delhi Capitals",
+      "career_wickets": 102.0,
+      "w_wickets": 13.056093733368384,
+      "projected_wickets_2026": 13
+    },
+    {
+      "player": "Josh Hazlewood",
+      "team": "Royal Challengers Bengaluru",
+      "career_wickets": 57.0,
+      "w_wickets": 13.572502005247836,
+      "projected_wickets_2026": 14
+    },
+    {
+      "player": "Pat Cummins",
+      "team": "Sunrisers Hyderabad",
+      "career_wickets": 79.0,
+      "w_wickets": 13.073514384623417,
+      "projected_wickets_2026": 13
+    },
+    {
+      "player": "Matheesha Pathirana",
+      "team": "Kolkata Knight Riders",
+      "career_wickets": 47.0,
+      "w_wickets": 12.411615498394632,
+      "projected_wickets_2026": 12
+    },
+    {
+      "player": "Kagiso Rabada",
+      "team": "Gujarat Titans",
+      "career_wickets": 119.0,
+      "w_wickets": 12.17851962426587,
+      "projected_wickets_2026": 12
+    },
+    {
+      "player": "Avesh Khan",
+      "team": "Lucknow Super Giants",
+      "career_wickets": 87.0,
+      "w_wickets": 12.400506048387859,
+      "projected_wickets_2026": 12
+    },
+    {
+      "player": "Ravindra Jadeja",
+      "team": "Rajasthan Royals",
+      "career_wickets": 170.0,
+      "w_wickets": 10.690588414327387,
+      "projected_wickets_2026": 11
+    },
+    {
+      "player": "Ravi Bishnoi",
+      "team": "Rajasthan Royals",
+      "career_wickets": 72.0,
+      "w_wickets": 11.568817883568892,
+      "projected_wickets_2026": 12
+    },
+    {
+      "player": "Mukesh Kumar",
+      "team": "Delhi Capitals",
+      "career_wickets": 36.0,
+      "w_wickets": 12.337794760892265,
+      "projected_wickets_2026": 12
+    },
+    {
+      "player": "Shardul Thakur",
+      "team": "Mumbai Indians",
+      "career_wickets": 107.0,
+      "w_wickets": 10.912795190515402,
+      "projected_wickets_2026": 11
+    },
+    {
+      "player": "Harshit Rana",
+      "team": "Kolkata Knight Riders",
+      "career_wickets": 40.0,
+      "w_wickets": 11.536943589164686,
+      "projected_wickets_2026": 12
+    },
+    {
+      "player": "Krunal Pandya",
+      "team": "Royal Challengers Bengaluru",
+      "career_wickets": 93.0,
+      "w_wickets": 10.079679993658676,
+      "projected_wickets_2026": 10
+    },
+    {
+      "player": "Sandeep Sharma",
+      "team": "Rajasthan Royals",
+      "career_wickets": 146.0,
+      "w_wickets": 9.84587134833183,
+      "projected_wickets_2026": 10
+    },
+    {
+      "player": "Deepak Chahar",
+      "team": "Mumbai Indians",
+      "career_wickets": 88.0,
+      "w_wickets": 10.380541779984208,
+      "projected_wickets_2026": 10
+    },
+    {
+      "player": "Axar Patel",
+      "team": "Delhi Capitals",
+      "career_wickets": 128.0,
+      "w_wickets": 9.277183855823562,
+      "projected_wickets_2026": 9
+    }
+  ]
+}
